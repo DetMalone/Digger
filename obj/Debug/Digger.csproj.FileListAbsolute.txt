@@ -1,0 +1,16 @@
+C:\Users\Malone\Desktop\StudyC#\Digger\bin\Debug\Images\Digger.png
+C:\Users\Malone\Desktop\StudyC#\Digger\bin\Debug\Images\Gold.png
+C:\Users\Malone\Desktop\StudyC#\Digger\bin\Debug\Images\Monster.png
+C:\Users\Malone\Desktop\StudyC#\Digger\bin\Debug\Images\Sack.png
+C:\Users\Malone\Desktop\StudyC#\Digger\bin\Debug\Images\Terrain.png
+C:\Users\Malone\Desktop\StudyC#\Digger\bin\Debug\11-digger.exe.config
+C:\Users\Malone\Desktop\StudyC#\Digger\bin\Debug\11-digger.exe
+C:\Users\Malone\Desktop\StudyC#\Digger\bin\Debug\11-digger.pdb
+C:\Users\Malone\Desktop\StudyC#\Digger\bin\Debug\nunit.framework.dll
+C:\Users\Malone\Desktop\StudyC#\Digger\obj\Debug\Digger.csprojAssemblyReference.cache
+C:\Users\Malone\Desktop\StudyC#\Digger\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\Malone\Desktop\StudyC#\Digger\obj\Debug\Digger.csproj.GenerateResource.cache
+C:\Users\Malone\Desktop\StudyC#\Digger\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+C:\Users\Malone\Desktop\StudyC#\Digger\obj\Debug\Digger.csproj.CopyComplete
+C:\Users\Malone\Desktop\StudyC#\Digger\obj\Debug\11-digger.exe
+C:\Users\Malone\Desktop\StudyC#\Digger\obj\Debug\11-digger.pdb
